@@ -23,7 +23,7 @@ purchase_test
 
 1. Склонируйте репозиторий:
     
-    git clone https://github.com/vashin-pavel/purchase-test.git cd purchase-test
+    git clone https://github.com/ExDrag0n/purchase_test
 
 2. Установите зависимости:
 - Python 3.8+
